@@ -15,6 +15,6 @@ steps:
       repo: kitkit/rabbitmq
       tags: 3.8.9-management-with-delayed
 
-trigger:
-  ref:
-    - refs/tags/**
+# trigger:
+#   ref:
+#     - refs/tags/**
