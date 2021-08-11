@@ -13,7 +13,8 @@ steps:
       context: build
       dockerfile: build/Dockerfile
       repo: kitkit/rabbitmq
-      tags: 3.8.9-management-with-delayed
+      tags: 
+        - 3.8.9-management-ext-plugins
 
 # trigger:
 #   ref:
