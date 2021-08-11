@@ -1,5 +1,7 @@
 # rabbitmq-docker-image-ext-plugins-example
 
+[![Build Status](https://cloud.drone.io/api/badges/kit101/rabbitmq-docker-image-ext-plugins-example/status.svg)](https://cloud.drone.io/kit101/rabbitmq-docker-image-ext-plugins-example)
+
 rabbitmq docker镜像构建示例，添加并启用自定义插件
 
 ### step1:
